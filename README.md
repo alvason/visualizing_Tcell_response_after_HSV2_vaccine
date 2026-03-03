@@ -3,13 +3,14 @@ This repository contains code for implementing gene-based analysis of T-cell rec
 
 <https://doi.org/10.1172/jci.insight.179010>
 
-<https://doi.org/10.1101/2022.02.04.22270210>
+<https://www.medrxiv.org/content/10.1101/2022.02.04.22270210v2>
 ```
 Expansion of the HSV-2–specific T cell repertoire in skin after immunotherapeutic HSV-2 vaccine
 Emily S. Ford, Alvason Z. Li, Kerry J. Laing, Lichun Dong, Kurt Diem, Lichen Jing, Koshlan Mayer-Blackwell, Krithi Basu, Mariliis Ott, Jim Tartaglia, Sanjay Gurunathan, Jack L. Reid, Matyas Ecsedi, Aude G. Chapuis, Meei-Li Huang, Amalia S. Magaret, Christine Johnston, Jia Zhu, David M. Koelle, and Lawrence Corey1
 ```
 ## Overview
 ### Visualizing immune response from PBMC to tissue after human immuno-therapeutic HSV-2 vaccine
+![](https://github.com/alvason/visualizing_Tcell_response_after_HSV2_vaccine/blob/master/code/demo/LW14356_circle_packing_circle_packing_1_tissue_Alva.png)
 ![](https://github.com/alvason/visualizing_Tcell_response_after_HSV2_vaccine/blob/master/code/demo/Tcell_from_PBMC_to_tissue.png)
 
 ## Installation
