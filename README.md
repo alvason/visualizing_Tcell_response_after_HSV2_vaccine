@@ -1,7 +1,9 @@
 # T-cell response after immunotherapeutic HSV-2 vaccine
-This repository contains code for implementing gene-based analysis of T-cell receptor (TCR) repertoire described in the manuscript:
+This repository contains code for implementing gene-based analysis of T-cell receptor (TCR) repertoire described in the paper:
 ```
-A coming publication by Emily F., Alvason L., and Lawrance C., (2019)
+<https://doi.org/10.1172/jci.insight.179010>
+
+<https://doi.org/10.1101/2022.02.04.22270210>
 ```
 
 ## Overview
