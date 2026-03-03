@@ -1,11 +1,12 @@
 # T-cell response after immunotherapeutic HSV-2 vaccine
 This repository contains code for implementing gene-based analysis of T-cell receptor (TCR) repertoire described in the paper:
+
 <https://doi.org/10.1172/jci.insight.179010>
 
 <https://doi.org/10.1101/2022.02.04.22270210>
 ```
 Expansion of the HSV-2–specific T cell repertoire in skin after immunotherapeutic HSV-2 vaccine
-Emily S. Ford,1,2 Alvason Z. Li,1 Kerry J. Laing,2 Lichun Dong,2 Kurt Diem,3 Lichen Jing,2 Koshlan Mayer-Blackwell,1 Krithi Basu,2 Mariliis Ott,2 Jim Tartaglia,4 Sanjay Gurunathan,4 Jack L. Reid,5 Matyas Ecsedi,5 Aude G. Chapuis,5 Meei-Li Huang,3 Amalia S. Magaret,1,3 Christine Johnston,1,2,3 Jia Zhu,1,3,6 David M. Koelle,1,2,3,7,8 and Lawrence Corey1,2,3 
+Emily S. Ford, Alvason Z. Li, Kerry J. Laing, Lichun Dong, Kurt Diem, Lichen Jing, Koshlan Mayer-Blackwell, Krithi Basu, Mariliis Ott, Jim Tartaglia, Sanjay Gurunathan, Jack L. Reid, Matyas Ecsedi, Aude G. Chapuis, Meei-Li Huang, Amalia S. Magaret, Christine Johnston, Jia Zhu, David M. Koelle, and Lawrence Corey1
 ```
 ## Overview
 ### Visualizing immune response from PBMC to tissue after human immuno-therapeutic HSV-2 vaccine
